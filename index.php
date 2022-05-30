@@ -1,7 +1,6 @@
-<!DOCTYPE html>
-<!--
- Kamus Curso java Insafor 2022
--->
+<?php
+       include_once './Configuracion/Conexion.php';
+?>
 <html>
     <head>
         <title>TODO supply a title</title>
@@ -10,8 +9,7 @@
     </head>
     <body>
        <?php 
-       
-       echo "index";
+
        ?>
     </body>
 </html>
